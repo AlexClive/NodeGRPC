@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Node value="*" key="期刊检索过滤">
+  <Node value="dbid" key="发行国家">
+    <Node value="WF_QK" key="国内期刊"/>
+    <Node value="NSTL_QK" key="国外期刊"/>
+  </Node>
+  <Node value="include" key="收录信息">
+    <Node value="IsCoreSCI" key="SCI"/>
+    <Node value="IsCoreSCIE" key="SCIE"/>
+    <Node value="IsCoreCSCD" key="CSCD"/>
+    <Node value="IsCorePKU" key="PKU"/>
+    <Node value="IsCoreISTIC" key="ISTIC"/>
+    <Node value="IsCoreMEDLINE" key="MEDLINE"/>
+    <Node value="IsCoreCA" key="CA"/>
+    <Node value="IsCoreBP" key="BP"/>
+  </Node>
+  <Node value="region" key="所在省份">
+    <Node value="11" key="北京"/>
+    <Node value="12" key="天津"/>
+    <Node value="13" key="河北"/>
+    <Node value="14" key="山西"/>
+    <Node value="15" key="内蒙古"/>
+    <Node value="21" key="辽宁"/>
+    <Node value="22" key="吉林"/>
+    <Node value="23" key="黑龙江"/>
+    <Node value="31" key="上海"/>
+    <Node value="32" key="江苏"/>
+    <Node value="33" key="浙江"/>
+    <Node value="34" key="安徽"/>
+    <Node value="35" key="福建"/>
+    <Node value="36" key="江西"/>
+    <Node value="37" key="山东"/>
+    <Node value="41" key="河南"/>
+    <Node value="42" key="湖北"/>
+    <Node value="43" key="湖南"/>
+    <Node value="44" key="广东"/>
+    <Node value="45" key="广西"/>
+    <Node value="46" key="海南"/>
+    <Node value="50" key="重庆"/>
+    <Node value="51" key="四川"/>
+    <Node value="52" key="贵州"/>
+    <Node value="53" key="云南"/>
+    <Node value="54" key="西藏"/>
+    <Node value="61" key="陕西"/>
+    <Node value="62" key="甘肃"/>
+    <Node value="63" key="青海"/>
+    <Node value="64" key="宁夏"/>
+    <Node value="65" key="新疆"/>
+  </Node>
+  <Node value="feature" key="特色期刊">
+    <Node value="Cma" key="中华医学会独家"/>
+    <Node value="Cmda" key="中国医师协会独家"/>
+    <Node value="Cooperationist" key="万方独家"/>
+    <Node value="Online" key="整刊在线阅读"/>
+  </Node>
+</Node>
